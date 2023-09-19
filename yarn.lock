@@ -967,7 +967,7 @@
 
 "@commitlint/cli@^17.7.1":
   version "17.7.1"
-  resolved "https://registry.npmmirror.com/@commitlint/cli/-/cli-17.7.1.tgz"
+  resolved "https://registry.npmmirror.com/@commitlint/cli/-/cli-17.7.1.tgz#f3ab35bd38d82fcd4ab03ec5a1e9db26d57fe1b0"
   integrity sha512-BCm/AT06SNCQtvFv921iNhudOHuY16LswT0R3OeolVGLk8oP+Rk9TfQfgjH7QPMjhvp76bNqGFEcpKojxUNW1g==
   dependencies:
     "@commitlint/format" "^17.4.4"
@@ -983,7 +983,7 @@
 
 "@commitlint/config-conventional@^17.7.0":
   version "17.7.0"
-  resolved "https://registry.npmmirror.com/@commitlint/config-conventional/-/config-conventional-17.7.0.tgz"
+  resolved "https://registry.npmmirror.com/@commitlint/config-conventional/-/config-conventional-17.7.0.tgz#1bbf2bce7851db63c1a8aa8d924277ad4938247e"
   integrity sha512-iicqh2o6et+9kWaqsQiEYZzfLbtoWv9uZl8kbI8EGfnc0HeGafQBF7AJ0ylN9D/2kj6txltsdyQs8+2fTMwWEw==
   dependencies:
     conventional-changelog-conventionalcommits "^6.1.0"
@@ -2310,7 +2310,7 @@ escape-string-regexp@^4.0.0:
 
 eslint-config-prettier@^9.0.0:
   version "9.0.0"
-  resolved "https://registry.npmmirror.com/eslint-config-prettier/-/eslint-config-prettier-9.0.0.tgz"
+  resolved "https://registry.npmmirror.com/eslint-config-prettier/-/eslint-config-prettier-9.0.0.tgz#eb25485946dd0c66cd216a46232dc05451518d1f"
   integrity sha512-IcJsTkJae2S35pRsRAwoCE+925rJJStOdkKnLVgtE+tEpqU0EVVM7OqrwxqgptKdX29NUwC82I5pXsGFIgSevw==
 
 eslint-scope@^7.2.2:
