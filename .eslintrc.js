@@ -1,8 +1,8 @@
 module.exports = {
-    // "linters": {
-    //     "*.ts": ["tslint --fix"],
-    //     "*.tsx": ["tslint --fix"]
-    // },
+    "linters": {
+        "*.ts": ["tslint --fix"],
+        "*.tsx": ["tslint --fix"]
+    },
     "env": {
         "browser": true,
         "es2021": true
