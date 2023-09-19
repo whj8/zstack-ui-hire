@@ -1,6 +1,5 @@
 import { Zstack } from "@/types";
-export function formatStorageNumberToObj(
-  size: number,
+export function formatStorageNumberToObj(size: number,
   decimal: number = 0,
 ): Zstack.IStorage {
   const sizes: Zstack.UnitType[] = ["B", "KB", "MB", "GB", "TB"];
